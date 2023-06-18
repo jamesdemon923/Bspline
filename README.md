@@ -15,8 +15,8 @@
 
 ## Draw the $C^1$ Catmull-Rom curve
 
-<img src="img/Catmull-Rom_curve.gif" alt="Catmull-Rom" style="zoom:80%;" />
+<img src="img/Catmull-Rom_curve.gif" alt="Catmull-Rom" style="zoom:150%;" />
 
 ## Double view of curves
 
-<img src="img/double_view.gif" alt="Double" style="zoom:80%;" />
+<img src="img/double_view.gif" alt="Double" style="zoom: 150%;" />
