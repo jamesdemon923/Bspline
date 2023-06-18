@@ -7,13 +7,16 @@
 
 ## The subdivision of B-spline
 
-Initialize $P_{i}^{0}$ = $P_{i}$. And use these formulas to create a refined set of control points(cyan):
-
-
+<img src="img/sub_B-spline.gif" alt="B-spline" style="zoom:80%;" />
 
 ## Draw the $C^2$ Bezier curve
 
+<img src="img/Bezier_curve.gif" alt="Bezier" style="zoom: 80%;" />
+
 ## Draw the $C^1$ Catmull-Rom curve
+
+<img src="img/Catmull-Rom_curve.gif" alt="Catmull-Rom" style="zoom:80%;" />
 
 ## Double view of curves
 
+<img src="img/double_view.gif" alt="Double" style="zoom:80%;" />
